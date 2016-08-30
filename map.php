@@ -303,7 +303,7 @@ return array (
   'Dark Matter' => '',
   'Dawsons Creek' => '',
   'Day Break' => '',
-  'Dead of Summer' => '',
+  'Dead of Summer' => '死亡夏令营',
   'Deadbeat' => '黎明狂徒',
   'Deadliest Catch' => '致命捕猎',
   'Deadliest Catch致命捕猎' => '',
