@@ -1159,7 +1159,6 @@ return array (
   'The Comedians' => '',
   'The Crazy Ones' => '',
   'The Daily Show' => '司徒囧每日秀',
-  'The Daily Show司徒囧每日秀' => '',
   'The Dead Zone' => '',
   'The Deep End' => '',
   'The Defenders' => '',
