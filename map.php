@@ -306,7 +306,6 @@ return array (
   'Dead of Summer' => '死亡夏令营',
   'Deadbeat' => '黎明狂徒',
   'Deadliest Catch' => '致命捕猎',
-  'Deadliest Catch致命捕猎' => '',
   'Deadwood' => '',
   'Death In Paradise' => '天堂岛疑云',
   'Death Valley' => '',
