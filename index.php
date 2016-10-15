@@ -49,7 +49,7 @@
 	_paq.push(['trackPageView']);
 	_paq.push(['enableLinkTracking']);
 	(function () {
-		var u = "http://tj.loveyu.info/";
+		var u = "//tj.loveyu.info/";
 		_paq.push(['setTrackerUrl', u + 'piwik.php']);
 		_paq.push(['setSiteId', 5]);
 		var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
@@ -60,7 +60,7 @@
 		s.parentNode.insertBefore(g, s);
 	})();
 </script>
-<noscript><p><img src="http://tj.loveyu.info/piwik.php?idsite=5" style="border:0;" alt=""/></p></noscript>
+<noscript><p><img src="//tj.loveyu.info/piwik.php?idsite=5" style="border:0;" alt=""/></p></noscript>
 <!-- End Piwik Code -->
 </body>
 </html>
