@@ -3,11 +3,6 @@
  * 美剧中英文对照表
  */
 return array (
-  ' Agent Carter' => '',
-  ' Guardians of the Galaxy' => '',
-  ' Jessica Jones' => '',
-  ' Legends of Tomorrow' => '',
-  ' Luke Cage' => '',
   '10 Items or Less' => '',
   '10 Things I Hate About You' => '',
   '100 Code' => '',
@@ -46,7 +41,7 @@ return array (
   'Against the Wall' => '',
   'Agatha Christie\'s Poirot' => '',
   'Agatha Christies Poirot' => '',
-  'Agent Carter' => '',
+  'Agent Carter' => '特工卡特',
   'Agent X' => '',
   'Agents of SHIELD' => '神盾局特工',
   'Alcatraz' => '',
