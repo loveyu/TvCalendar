@@ -1556,7 +1556,7 @@ return array (
   'Welcome To Sweden' => '',
   'Welcome To The Family' => '',
   'Wentworth' => '',
-  'Westworld' => '',
+  'Westworld' => '西部世界',
   'Wet Hot American Summer' => '',
   'Whale Wars' => '',
   'What About Brian' => '',
