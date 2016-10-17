@@ -492,6 +492,7 @@ return array (
   'Go On' => '',
   'Gold Rush' => '淘金记',
   'Golden Boy' => '',
+  'Goliath' => '',
   'Gomorrah' => '',
   'Good Behavior' => '',
   'Good Cop' => '',
